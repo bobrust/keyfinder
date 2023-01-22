@@ -17,6 +17,6 @@ This tool allows you to find the Key of a song based on its chords. You need to 
 ## Installation
 
 * Clone this repo to your machine.
-* `CD` ino the `keyfinder' directory.
+* `CD` ino the *keyfinder* directory.
 * Run with:
 ```Cargo Run```
